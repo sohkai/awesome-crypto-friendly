@@ -2,7 +2,7 @@
 
 # Awesome Crypto-Friendly Projects and Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links to projects and tools that are friendly towards crypto-projects.
+*A curated collection of links to projects and tools that are friendly towards crypto-projects.*
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
