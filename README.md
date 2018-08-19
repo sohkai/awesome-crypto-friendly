@@ -6,7 +6,7 @@
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
-Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourself](contributing.md).
+Your contributions are welcomed. Please see the [contributing guidelines](contributing.md).
 
 
 ## Table of Contents
